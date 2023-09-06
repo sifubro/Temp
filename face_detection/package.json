@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.10.0",
+    "canvas": "^2.11.2",
+    "csv": "^6.3.3",
+    "csv-parser": "^3.0.0",
+    "face-api.js": "^0.22.2",
+    "mongodb": "6.0",
+    "node-pandas": "^1.0.5"
+  }
+}
